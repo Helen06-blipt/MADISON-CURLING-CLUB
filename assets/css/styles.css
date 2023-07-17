@@ -790,6 +790,8 @@ preloader
   top: 65%;
   transform: translateY(-75%);
   color:#646464;
+  font-weight: 600;
+  font-style: italic;
 }
 @keyframes rock {
   0%{
